@@ -1,6 +1,3 @@
-# Avantia
-Thank you for giving me the opportunity to work on this, it was a lot of fun!
-
 # Wikipedia Page Analyzer Challenge
 
 This application analyzes Wikipedia pages for mentions of bankruptcy and fraud. It consists of a React frontend and a Node.js backend.
